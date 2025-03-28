@@ -1,4 +1,4 @@
-## Hi there! 👋
+# Hi there! 👋
 
 - 🤗 I'm Victor Capriles.
 - 🔭 I'm currently working as an AI Software Developer.
@@ -11,7 +11,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="------------------------------------------------------" style="max-width: 100%;">
 
-### 🔗Connect with me
+### 🔗Connect with me:
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vdcapriles) [![Website](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=notion&logoColor=white)](https://talented-dart-7e7.notion.site/Victor-Capriles-s-Blog-14f51ac69b82801bb2a4f84abe820314)
 
