@@ -2,7 +2,7 @@
 
 - 🤗 I'm Victor Capriles.
 - 🔭 I'm currently working as an AI Software Developer.
-- 🤖 Learning to code in Python andJavaScript/Typescript.
+- 🤖 Learning to code in Python and JavaScript/Typescript.
 - ⚡ Fun fact: I like snoopy.
 - 🚀 I'm looking to collaborate on open-source AI projects. Hit me up if you're building something cool!
 - 📫 Reach me at: vdcapriles@gmail.com
